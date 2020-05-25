@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.2.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: firebaseCrashlytics
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2018 by Your Company
+
+# these should not be edited
+name: firebaseCrashlytics
+moduleid: firebase.crashlytics
+guid: 1e200175-3db7-4741-a27c-4aca22dd872f
+platform: iphone
+minsdk: 7.0.1.GA
